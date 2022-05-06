@@ -1,0 +1,6 @@
+ Projeto desenvolvido para estudo de versionamento em TI.
+ 
+ Por Gabrielli_Souza
+ 
+ 05/05/2022-Início e Criação do Projeto Versionamento,
+ Utilização dfo GIT e GITHUB.
